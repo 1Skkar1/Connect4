@@ -17,4 +17,5 @@ After compiling, the program is intuitive and provides step-by-step instructions
 Once the program asks for a move in ***CHOOSE YOUR MOVE*** please reply with the number of the column where you wish to play from **0** to **6**.
 
 > **Player:** *O*
+
 > **CPU:** *X* 
