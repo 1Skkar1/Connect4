@@ -1,7 +1,7 @@
 # Connect4
 Artificial Intelligence - Second Project - Connect4
 
-April 6th 2019
+Date: ***April 6th 2019***
 
 ### Compile:
 
